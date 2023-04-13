@@ -1,4 +1,8 @@
 # -*- coding: utf-8 -*-
+# Created by Richard Siena
+# you are free to modify and distribute. 
+# please reference that it came from me.
+# the Notes.correct.txt has sharp and flat unicode characters which python seems to have issues with.
 #import codecs
 import os
 import sys 
